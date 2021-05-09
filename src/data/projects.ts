@@ -2,7 +2,7 @@ import { Tech, Links, ProjectImages } from './types';
 
 const projects = [
     {
-        bkgColor: "yellow",
+        bkgColor: "#eee",
         title: "abc1",
         text: "some text here",
         tags: [Tech.Js, Tech.Ts],
@@ -18,7 +18,7 @@ const projects = [
         } as ProjectImages,
     },
     {
-        bkgColor: "green",
+        bkgColor: "#eee",
         title: "abc1",
         text: "some text here",
         tags: [Tech.Sass, Tech.Redux],
@@ -32,7 +32,7 @@ const projects = [
         }
     },
     {
-        bkgColor: "blue",
+        bkgColor: "#eee",
         title: "abc1",
         text: "some text here",
         tags: [Tech.Js, Tech.Ts],
